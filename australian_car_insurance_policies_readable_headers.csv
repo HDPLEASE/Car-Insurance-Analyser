@@ -1,0 +1,75 @@
+Policy ID,Insurer,Product Name,Cover Family,Product Tier,State Specific,Own Vehicle Cover,Third Party Property Cover,Fire/Theft Cover,Injury Cover,Official URL
+ALLIANZ_COMP,Allianz,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.allianz.com.au/car-insurance/comprehensive-car-insurance.html
+ALLIANZ_COMP_ESS,Allianz,Comprehensive Car Insurance Essentials,comprehensive,basics,general,yes,yes,yes,no,https://www.allianz.com.au/car-insurance/comprehensive-car-insurance/essentials.html
+ALLIANZ_TPPD,Allianz,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.allianz.com.au/car-insurance/third-party-property-damage-car-insurance.html
+ALLIANZ_CTP_NSW,Allianz,CTP Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.allianz.com.au/ctp-insurance/nsw.html
+ALLIANZ_CTP_QLD,Allianz,CTP Insurance,ctp_or_mai,standard,QLD,no,no,no,yes,https://www.allianz.com.au/ctp-insurance/qld.html
+ALLIANZ_CTP_SA,Allianz,CTP Insurance,ctp_or_mai,standard,SA,no,no,no,yes,https://www.allianz.com.au/ctp-insurance/sa.html
+NRMA_COMP_BASICS,NRMA Insurance,Comprehensive Basics Car Insurance,comprehensive,basics,general,yes,yes,yes,no,https://www.nrma.com.au/car-insurance/comprehensive-basics
+NRMA_COMP,NRMA Insurance,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.nrma.com.au/car-insurance/comprehensive-car-insurance
+NRMA_COMP_PLUS,NRMA Insurance,Comprehensive Plus Car Insurance,comprehensive,plus,general,yes,yes,yes,no,https://www.nrma.com.au/car-insurance/comprehensive-plus
+NRMA_TPFT,NRMA Insurance,Third Party Fire & Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.nrma.com.au/car-insurance/third-party-fire-theft-car-insurance
+NRMA_TPPD,NRMA Insurance,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance
+NRMA_CTP_NSW,NRMA Insurance,CTP Green Slip Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.nrma.com.au/ctp-insurance/ctp-green-slip-nsw
+NRMA_CTP_SA,NRMA Insurance,Compulsory Third Party Insurance,ctp_or_mai,standard,SA,no,no,no,yes,https://www.nrma.com.au/ctp-insurance/compulsory-third-party-sa
+NRMA_MAI_ACT,NRMA Insurance,MAI Insurance,ctp_or_mai,standard,ACT,no,no,no,yes,https://www.nrma.com.au/ctp-insurance/mai-insurance-act
+AAMI_COMP,AAMI,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.aami.com.au/car-insurance/comprehensive
+AAMI_TPPD,AAMI,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.aami.com.au/car-insurance/third-party-property
+AAMI_TPFT,AAMI,Third Party Fire & Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.aami.com.au/car-insurance/third-party-fire-theft-car-insurance
+AAMI_CTP_NSW,AAMI,CTP Green Slip Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.aami.com.au/ctp-insurance
+AAMI_CTP_SA,AAMI,SA CTP Insurance,ctp_or_mai,standard,SA,no,no,no,yes,https://www.aami.com.au/ctp-insurance/sa
+AAMI_MAI_ACT,AAMI,MAI Insurance,ctp_or_mai,standard,ACT,no,no,no,yes,https://www.aami.com.au/mai-insurance
+GIO_PLATINUM,GIO,Platinum Car Insurance,comprehensive,premium,general,yes,yes,yes,no,https://www.gio.com.au/car-insurance/platinum.html
+GIO_COMP,GIO,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.gio.com.au/car-insurance/comprehensive.html
+GIO_FTTPD,GIO,Fire Theft and Third Party Property Damage Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.gio.com.au/car-insurance/comparison.html
+GIO_TPPD,GIO,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.gio.com.au/car-insurance/third-party.html
+GIO_CTP_NSW,GIO,CTP Green Slip Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.gio.com.au/ctp-insurance.html
+GIO_MAI_ACT,GIO,MAI Insurance,ctp_or_mai,standard,ACT,no,no,no,yes,https://www.gio.com.au/mai-insurance.html
+YOUI_COMP,Youi,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.youi.com.au/car-insurance/comprehensive
+YOUI_TPFT,Youi,Third Party Fire & Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.youi.com.au/car-insurance/third-party-fire-theft
+YOUI_TPPD,Youi,Third Party Property Only Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.youi.com.au/car-insurance/third-party-property-only
+YOUI_CTP_NSW,Youi,NSW CTP Green Slip Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.youi.com.au/nsw-ctp-greenslip
+YOUI_CTP_SA,Youi,SA CTP Insurance,ctp_or_mai,standard,SA,no,no,no,yes,https://www.youi.com.au/sa-ctp
+APIA_COMP,Apia,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.apia.com.au/car-insurance/comprehensive.html
+APIA_TPFT,Apia,Third Party Fire and Theft Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.apia.com.au/car-insurance/third-party-fire-and-theft.html
+APIA_TPPD,Apia,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.apia.com.au/car-insurance/third-party.html
+APIA_CTP_NSW,Apia,NSW CTP Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.apia.com.au/car-insurance/ctp/nsw.html
+APIA_MAI_ACT,Apia,ACT MAI Insurance,ctp_or_mai,standard,ACT,no,no,no,yes,https://www.apia.com.au/mai-insurance.html
+RACQ_COMP,RACQ,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.racq.com.au/car/car-insurance/comprehensive-car-insurance
+RACQ_FTTPD,RACQ,Fire Theft and Third Party Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.racq.com.au/car/car-insurance/fire-theft-and-third-party-insurance
+RACQ_TPPD,RACQ,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.racq.com.au/car/car-insurance/third-party-car-insurance
+RACV_COMP,RACV,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.racv.com.au/insurance/car-insurance/comprehensive.html
+RACV_TPFT,RACV,Third Party Fire and Theft Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.racv.com.au/insurance/car-insurance/third-party-theft.html
+RACV_TPPD,RACV,Third Party Property Damage Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.racv.com.au/insurance/car-insurance/third-party-property-damage.html
+RACWA_COMP,RAC WA,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://rac.com.au/car-motoring/car-insurance/comprehensive
+RACWA_TPFT,RAC WA,Fire and Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://rac.com.au/car-motoring/car-insurance/fire-and-theft
+RACWA_TPPD,RAC WA,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://rac.com.au/car-motoring/car-insurance/third-party
+RAA_PREMIUM_COMP,RAA,Premium Comprehensive Car Insurance,comprehensive,premium,general,yes,yes,yes,no,https://www.raa.com.au/motor/car-insurance/comprehensive-car-insurance
+RAA_STANDARD_COMP,RAA,Standard Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.raa.com.au/motor/car-insurance/comprehensive-car-insurance
+RAA_TPFT,RAA,Third Party Fire and Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.raa.com.au/motor/car-insurance/third-party-car-insurance
+RAA_TPPD,RAA,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.raa.com.au/motor/car-insurance/third-party-car-insurance
+CBA_COMP,CommBank,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.commbank.com.au/insurance/car-insurance/comprehensive-car-insurance.html
+CBA_COMP_SAVER,CommBank,Comprehensive Saver Car Insurance,comprehensive,low_km,general,yes,yes,yes,no,https://www.commbank.com.au/insurance/car-insurance/comprehensive-saver-car-insurance.html
+CBA_TPFT,CommBank,Third Party Property Fire and Theft Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.commbank.com.au/insurance/car-insurance/third-party-fire-theft-insurance.html
+CBA_TPPD,CommBank,Third Party Property Damage Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.commbank.com.au/insurance/car-insurance/third-party-property-damage-insurance.html
+WESTPAC_COMP,Westpac,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.westpac.com.au/personal-banking/insurance/car-insurance/comprehensive-car-insurance/
+WESTPAC_TPPD,Westpac,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.westpac.com.au/personal-banking/insurance/car-insurance/third-party-property-damage-car-insurance/
+ING_COMP,ING,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.ing.com.au/insurance/car-insurance/comprehensive-car-insurance.html
+ING_TPFT,ING,Third Party Fire and Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.ing.com.au/insurance/car-insurance/third-party-car-insurance.html
+ING_TPPD,ING,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.ing.com.au/insurance/car-insurance/third-party-car-insurance.html
+COLES_COMP,Coles,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.coles.com.au/insurance/car-insurance/comprehensive
+COLES_TPFT,Coles,Third Party Fire and Theft Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.coles.com.au/insurance/car-insurance/third-party-fire-theft
+COLES_TPPD,Coles,Third Party Damage Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.coles.com.au/insurance/car-insurance/third-party-damage
+BD_COMP,Budget Direct,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.budgetdirect.com.au/car-insurance/comprehensive-car-insurance.html
+BD_TPFT,Budget Direct,Third Party Fire and Theft Car Insurance,third_party_fire_theft,standard,general,no,yes,yes,no,https://www.budgetdirect.com.au/car-insurance/third-party-car-insurance.html
+BD_TPPD,Budget Direct,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.budgetdirect.com.au/car-insurance/third-party-car-insurance.html
+BINGLE_COMP,Bingle,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.bingle.com.au/comprehensive-car-insurance.html
+BINGLE_TPPD,Bingle,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.bingle.com.au/third-party-car-insurance.html
+SUNCORP_COMP,Suncorp,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.suncorp.com.au/insurance/car/comprehensive.html
+SUNCORP_TPPD,Suncorp,Third Party Car Insurance,third_party_property_damage,standard,general,no,yes,no,no,https://www.suncorp.com.au/insurance/car/third-party.html
+SUNCORP_TPPD_FT_OPTION,Suncorp,Third Party Car Insurance with Fire and Theft option,third_party_property_damage,fire_theft_option,general,no,yes,optional,no,https://www.suncorp.com.au/insurance/car/third-party.html
+QBE_COMP,QBE,Comprehensive Car Insurance,comprehensive,standard,general,yes,yes,yes,no,https://www.qbe.com/au/car-insurance/comprehensive-car-insurance
+QBE_TPPD,QBE,Third Party Property Damage Car Insurance,third_party_property_damage,standard,general,no,yes,optional,no,https://www.qbe.com/au/car-insurance/third-party-car-insurance
+QBE_CTP_NSW,QBE,NSW Green Slip Insurance,ctp_or_mai,standard,NSW,no,no,no,yes,https://www.qbe.com/au/green-slip-insurance/nsw
+QBE_CTP_QLD,QBE,QLD CTP Insurance,ctp_or_mai,standard,QLD,no,no,no,yes,https://www.qbe.com/au/green-slip-insurance/ctp-queensland
+QBE_CTP_SA,QBE,SA CTP Insurance,ctp_or_mai,standard,SA,no,no,no,yes,https://www.qbe.com/au/green-slip-insurance/ctp-sa
